@@ -1,0 +1,40 @@
+body{
+	padding: 40px 20px;
+	text-align: center;
+	background: #EEEEEE;
+}
+
+h1{
+	box-sizing: initial;
+	color: #800000;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: 600;
+	font-family: Arial, helvetica, sans-serif;
+	border-style: solid;
+	border-color: deepskyblue;
+	
+	border-radius: 100px;
+	border-right: 20px;
+	border-left: 20px;
+}
+
+form{
+	padding-top: 15px;
+	font-size: 24px;
+}
+
+label{
+	padding: 30px 30px;
+}
+
+select{
+	font-size: 16px;
+	background-color:pink ; 
+}
+
+input[type=submit]{
+	font-size: 18px;
+	background-color: lightgreen;
+}
+
