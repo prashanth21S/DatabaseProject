@@ -65,7 +65,7 @@
     <div>
         <br><input type="submit" value="Submit">
     </div>
-         <br><a href="index.html">Go Back</a>
+         <br><a href="index.php">Go Back</a>
     </form>
 </body>
 </html>

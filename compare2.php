@@ -134,5 +134,5 @@ $row2=$res2->fetch_assoc();
 </table>
 </div>
 <br><br>
-<a href="index.html">Click Here To go back</a>
+<a href="index.php">Click Here To go back</a>
 </body>
