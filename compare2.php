@@ -102,7 +102,7 @@ $row2=$res2->fetch_assoc();
     </tr>
     <tr>
         <td>Geekbench Single Core Score</td>
-        <td><<?php echo $row1['Single_Geekbench']; ?>/td>
+        <td><<?php echo $row1['Single_Geekbench']; ?></td>
         <td><?php echo $row2['Single_Geekbench']; ?></td>
     </tr>
     <tr>
